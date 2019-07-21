@@ -8,7 +8,7 @@ Before running the validation case or the experimental simulation, it is necessa
 
 ### Validation case
 
-To run the theoretical validation case, the file [power_microgrid_v3_analytic](Analytic Validation/power_microgrid_v3_analytic.slx) should then be opened in MATLAB Simulink. The output results from the scopes should then be compared to the output of the [FYP_analytical_test script](Analytic Validation/FYP_analytical_test.m).
+To run the theoretical validation case, the [simulation file](Analytic Validation/power_microgrid_v3_analytic.slx) should then be opened in MATLAB Simulink. The output results from the scopes should then be compared to the output of the [validation script](Analytic Validation/FYP_analytical_test.m).
 
 ## Running the tests
 
