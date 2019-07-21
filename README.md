@@ -5,7 +5,7 @@ Repository with Smart Grid simulation code from MATLAB and Simulink along with a
 ## Getting Started
 
 The repository contains 
-[Analytical validation folder](micro_smart_grids/Analytic Validation/)
+[Analytical validation folder](Analytic Validation/)
 
 ### Prerequisites
 
