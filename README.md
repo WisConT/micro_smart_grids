@@ -4,8 +4,7 @@ Repository with Smart Grid simulation code from MATLAB and Simulink along with a
 
 ## Getting Started
 
-The repository contains 
-[Analytical validation folder](Analytic Validation/)
+Before running the validation case or the experimental simulation, it is necessary to load the [default PV data file from MATLAB](Simulation/default_PV_data.mat)
 
 ### Prerequisites
 
