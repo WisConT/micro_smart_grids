@@ -10,11 +10,11 @@ Before running the validation case or the experimental simulation, it is necessa
 
 ## Validation Case
 
-To run the theoretical validation case, the [validation grid](power_microgrid_v3_analytic.slx) should then be opened in MATLAB Simulink and run over a 24h period. The output results from the scopes should then be compared to the output of the [validation script](FYP_analytical_test.m).
+To run the theoretical validation case, the [validation grid](power_microgrid_v3_analytic.slxc) should then be opened in MATLAB Simulink and run over a 24h period. The output results from the scopes should then be compared to the output of the [validation script](FYP_analytical_test.m).
 
 ## Simulation
 
-Explain how to run the automated tests for this system
+The smart micro-grid (settings to match UK electricity grid) can be found [here](Simulation/power_microgrid_v5_battery.slxc). The PV generation profiles come from the [default MATLAB solar panel data](Simulation/default_PV_data.mat), while the domestic load profiles were generated using the [24h House Eletricity Study results](HES 24H Chooser.xlsm).
 
 
 ## Built With
