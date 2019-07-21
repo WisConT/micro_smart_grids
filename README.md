@@ -8,9 +8,9 @@ Repository with Smart Grid simulation code from MATLAB and Simulink along with a
 Before running the validation case or the experimental simulation, it is necessary to load the [default MATLAB solar panel data](Simulation/default_PV_data.mat) in the MATLAB workspace. The simulations also require the download of the [Simscape package](https://www.mathworks.com/products/simscape.html).
 
 
-## Validation case
+## Validation Case
 
-
+To run the theoretical validation case, the [validation grid](power_microgrid_v3_analytic.slx) should then be opened in MATLAB Simulink and run over a 24h period. The output results from the scopes should then be compared to the output of the [validation script](FYP_analytical_test.m).
 
 ## Simulation
 
