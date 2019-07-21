@@ -10,7 +10,6 @@ Before running the validation case or the experimental simulation, it is necessa
 
 ## Validation case
 
-To run the theoretical validation case, the [validation simulation grid](Analytic Validation/power_microgrid_v3_analytic.slx) should then be opened in MATLAB Simulink and run over a 24h period. The output results from the scopes should then be compared to the output of the [validation script](Analytic Validation/FYP_analytical_test.m).
 
 
 ## Simulation
