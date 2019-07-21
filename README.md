@@ -14,7 +14,7 @@ To run the theoretical validation case, the [validation grid](power_microgrid_v3
 
 ## Simulation
 
-The smart micro-grid (settings to match UK electricity grid) can be found [here](Simulation/power_microgrid_v5_battery.slxc). The PV generation profiles come from the [default MATLAB solar panel data](Simulation/default_PV_data.mat), while the domestic load profiles were generated using the [24h House Eletricity Study results](HES 24H Chooser.xlsm).
+The smart micro-grid (settings to match UK electricity grid) can be found [here](Simulation/power_microgrid_v5_battery.slxc). The PV generation profiles come from the [default MATLAB solar panel data](Simulation/default_PV_data.mat), while the domestic load profiles were generated using the [24h House Eletricity Study results]. Each load corresponds to a particular profile from this study, and a detail of the loads used can be found in this [spread sheet](Simulation/power_microgrid_v5_battery_load_type.xlsx).
 
 
 ## Built With
