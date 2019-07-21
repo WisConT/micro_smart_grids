@@ -8,7 +8,7 @@ Before running the validation case or the experimental simulation, it is necessa
 
 ### Validation case
 
-To run the theoretical validation case, the [power](Analytic Validation/power_microgrid_v3_analytic.slxc) file should then be opened in MATLAB Simulink and requires the download of the [Simscape](https://www.mathworks.com/products/simscape.html) package.
+To run the theoretical validation case, the  file should then be opened in MATLAB Simulink and requires the download of the [Simscape](https://www.mathworks.com/products/simscape.html) package.
 
 ## Running the tests
 
